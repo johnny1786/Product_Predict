@@ -1,4 +1,4 @@
-# Amazon Reviews 2023
+# Amazon Reviews 2026
 
 [[🌐 Website](https://amazon-reviews-2023.github.io/)] · [[🤗 Huggingface Datasets](https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023)] · [[📑 Paper](https://arxiv.org/abs/2403.03952)] · [[🔬 McAuley Lab](https://cseweb.ucsd.edu/~jmcauley/)]
 
